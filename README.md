@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Machine Learning codes.
 - 🌱 I’m currently learning AWS.
-- 👯 I’mlooking to collaborate on medical data analysis.
+- 👯 I’m looking to collaborate on medical data analysis.
 - 🤔 I’m looking for help with internships and trainings.
 - 💬 Ask me about Data Science. 
 - 📫 You can reach out to me on my e-mail: manbir.kaur2020@vitbhopal.ac.in
