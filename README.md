@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 You can reach out to me on my e-mail: manbir.kaur2020@vitbhopal.ac.in
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: I love to dance and write poems. This is a way of calming my self from all the real life stress. 
+
 -->
