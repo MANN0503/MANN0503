@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Machine Learning codes.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning AWS and Applied Data Science.
 - 👯 I’m looking to collaborate on medical data analysis.
 - 🤔 I’m looking for help with internships and trainings.
 - 💬 Ask me about Data Science. 
