@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 
-Hi I am going to my home on 10th Nov 2023
 - 🔭 I’m currently working on Machine Learning codes.
 - 🌱 I’m currently learning AWS and Applied Data Science.
 - 👯 I’m looking to collaborate on medical data analysis.
