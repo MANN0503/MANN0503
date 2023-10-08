@@ -1,10 +1,12 @@
-                                                               Hi there 👋
+                                                            
   
 <!--
 **MANN0503/MANN0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
+<h1 align = 'center'>Hi! There</h1>
 
 - 🔭 I’m currently working on Machine Learning codes.
 - 🌱 I’m currently learning AWS and Applied Data Science.
