@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 <h1 align = 'center'>Hi! There Everyone!</h1>
 
 - 🔭 I’m currently working on Machine Learning codes.
-- 🌱 I’m currently learning AWS and Applied Data Science.
+- 🌱 I’m a certified AWS cloud practitioner and certified in Applied Data Science course.
 - 👯 I’m looking to collaborate on medical data analysis.
-- 🤔 I’m looking for help with internships and trainings.
+- 🤔 I’m looking for help with internships and training.
 - 💬 Ask me about Data Science. 
 - 📫 You can reach out to me on my e-mail: manbir.kaur2020@vitbhopal.ac.in
 - 😄 Pronouns: She/Her
-- ⚡ Hobbies: I love to dance and write poems. This is a way of calming my self from all the real life stress. 
+- ⚡ Hobbies: I love to dance and write poems. This is a way of calming myself from all the real-life stress. 
 
 -->
