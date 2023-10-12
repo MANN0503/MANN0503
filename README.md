@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<h1 align = 'center'>Hi! There Everyone!</h1>
+<h1 align = 'center'>Hi! There</h1>
 
 - 🔭 I’m currently working on Machine Learning codes.
 - 🌱 I’m a certified AWS cloud practitioner and certified in Applied Data Science course.
